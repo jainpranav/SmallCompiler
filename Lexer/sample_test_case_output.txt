@@ -1,0 +1,32 @@
+1. TYPE int
+2. ID life_universe_and_everything
+3. (
+4. TYPE int
+5. ID n
+6. )
+7. {
+8. IF if
+9. (
+10. ID n
+11. rel_op <
+12. decimal_literal 43
+13. )
+14. {
+15. ID ans
+16. assign_op =
+17. ID n
+18. ;
+19. }
+20. ELSE else
+21. {
+22. ID ans
+23. assign_op =
+24. ID life_universe_and_everything
+25. (
+26. ID n
+27. arith_op -
+28. decimal_literal 1
+29. )
+30. ;
+31. }
+32. }
