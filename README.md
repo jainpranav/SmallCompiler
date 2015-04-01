@@ -74,7 +74,6 @@ This project progressively builds up a small compiler for the below given CFG to
 ## How to Use The Code From source ?
 ```bash
 $ git clone --recursive git@github.com:jainpranav/SmallCompiler.git
-$ cd src/
 ```
 
 ## Contributing
