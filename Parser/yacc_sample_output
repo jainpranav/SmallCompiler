@@ -1,0 +1,10 @@
+program
+    field_decl
+        type
+        	int
+        id
+        	i
+        int_const
+            decimal_int
+            	0
+    field_decls
