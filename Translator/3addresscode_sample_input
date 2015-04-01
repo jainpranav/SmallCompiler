@@ -1,0 +1,15 @@
+class Program{
+        int x = 100;
+        int y = 50;
+        int z = 0;
+
+        void function(){
+                if(z == 0){
+                        z = x + y;
+                }
+                else{
+                        z = x - y;
+                }
+                return;
+        }
+}
