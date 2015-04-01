@@ -1,7 +1,7 @@
 # What this Code does ?
 
-- For a given program written using the CFG specified , output the tokens in the program
-- Output the lexemes where necessary
+- For a given program written using the CFG specified , outputs the tokens in the program
+- Outputs the lexemes where necessary
 
 # How to Use The Code  ?
 
