@@ -1,0 +1,13 @@
+L1: x = 100
+L2: y = 50
+L3: z = 0
+function:
+L5: t1 = z == 0
+L6: if t1 goto L8
+L7: ifFalse t1 goto L11
+L8: t2 = x + y
+L9: z = t2
+L10: goto L13
+L11: t3 = x - y
+L12: z = t3
+L13: ret
