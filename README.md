@@ -7,9 +7,9 @@
 
 This project progressively builds up a small compiler for the below given CFG tools using the following technologies :
 
-- C
-- LEX
-- YACC 
+- `C`
+- `LEX`
+- `YACC `
 
 ##Context - Free Grammar
 
@@ -70,13 +70,10 @@ This project progressively builds up a small compiler for the below given CFG to
  - Abstraction Maintained
  - Readability due to `inline comments`
 
-## How to Run ?
-
-Download the [Pre-Release Version] (https://github.com/jainpranav/Minesweeper/releases/tag/1.0)
 
 ## How to Use The Code From source ?
 ```bash
-$ git clone --recursive git@github.com:jainpranav/Minesweeper.git
+$ git clone --recursive git@github.com:jainpranav/SmallCompiler.git
 $ cd src/
 ```
 
